@@ -206,4 +206,11 @@ form {
     float:left;
     margin:20px 12px;
 }
+/* Media Queries */
 
+
+@media screen (max-width: 640px) {
+
+
+
+}
